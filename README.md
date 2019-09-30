@@ -15,7 +15,7 @@ How to run:
 
 4. Add path in matlab, run addpath ('\gradients_analysis\code\')
 
-5.set parameters like Timepoints, input file and run 'gradients_analysis\gradients_analysis.m'
+5.set parameters like Timepoints, dir of input file and run 'gradients_analysis\gradients_analysis.m'
 
 please note, kb loop in the gradients_analysis.m cannot be run directly, but seperately run kb = 1 for cerebellar-cerebellar gradients; kb = 2 for cerebellar-cerebral cortex gradients; kb = 3 for cerebral-cerebellar cortex gradient; 
 for example, run kb=1 till line 284, then based on the value of number_c (e.g., 14), change the number of 'nComponents',12 in the line 290 into 'nComponents',14.
