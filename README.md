@@ -17,7 +17,7 @@ How to run:
 
 5.set parameters like Timepoints, input file and run 'gradients_analysis\gradients_analysis.m'
 
-please note, kb loop in the gradients_analysis.m cannot be run directly, but seperately run kb = 1; kb = 2; kb = 3; 
+please note, kb loop in the gradients_analysis.m cannot be run directly, but seperately run kb = 1 for cerebellar-cerebellar gradients; kb = 2 for cerebellar-cerebral cortex gradients; kb = 3 for cerebral-cerebellar cortex gradient; 
 for example, run kb=1 till line 284, then based on the value of number_c (e.g., 14), change the number of 'nComponents',12 in the line 290 into 'nComponents',14.
 
 Before running the gradients_analysis.m, please read the comments in gradients_analysis.m. 
