@@ -8,8 +8,8 @@ How to run:
 
 1.download and extract the 'gradients_analysis.rar'
 
-2.organize preprocessed image file for each subject into specific format, put them into the dir '\gradients_analysis\data\', like, '\gradients_analysis\data\data\sub001\Filtered_4DVolume.nii';
-'\gradients_analysis\data\data\sub002\Filtered_4DVolume.nii';etc
+2.organize preprocessed image file for each subject into specific format, put them into the dir '\gradients_analysis\data\', like, '\gradients_analysis\data\sub001\Filtered_4DVolume.nii';
+'\gradients_analysis\data\sub002\Filtered_4DVolume.nii';etc
 
 3.copy the 'mica_diffusionEmbedding.m' and 'mica_iterativeAlignment.m' from https://github.com/MICA-MNI/micaopen/tree/master/diffusion_map_embedding into the dir '\gradients_analysis\code\'
 
