@@ -22,5 +22,6 @@ for example, run kb=1 till line 284, then based on the value of number_c (e.g., 
 
 Before running the gradients_analysis.m, please read the comments in gradients_analysis.m. 
 
-Citation: Debo Dong, M.Sc, Dezhong Yao, Ph.D*, Xavier Guell, M.D, Yulin Wang, M.Sc, Hui He, Ph.D, Mingjun Duan, PhD, Simon B. Eickhoff, M.D, Cheng Luo, Ph.D1*. Compression of cerebellar functional gradients in schizophrenia. Under review.
+Citation: Debo Dong, Cheng Luo*, Xavier Guell, Yulin Wang, Hui He, Mingjun Duan, Simon B. Eickhoff, Dezhong Yao*. Compression of cerebellar functional gradients in schizophrenia. Schizophrenia Bulletin. 2020. DOI: 10.1093/schbul/sbaa016.
+
 Contact:debo.dong@gmail.com
