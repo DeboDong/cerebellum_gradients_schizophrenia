@@ -2,7 +2,7 @@
 This is the matlab repository for the cerebellar gradient analysis in schizophrenia with preprocessed images (4D,nii) as input, which can be applied to investigate cerebellar gradient of other disorders. It will construct cerebellar-cerebellar, cerebellar-cerebral, cerebral-cerebellar FC gradient. 
 
 Requirements:
-matlab >=2017b, SPM12 and preprocessed images (4D,nii)
+matlab >=2017b, SPM12, SUIT(for visualization), Python 3.5 (for visualization) and preprocessed images (4D,nii)
 
 How to run:
 
